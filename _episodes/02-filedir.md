@@ -156,7 +156,7 @@ $ pwd
 
 To understand what a "home directory" is,
 let's have a look at how the file system as a whole is organized.  For the
-sake of example, we'll be
+sake of this example, we'll be
 illustrating the filesystem on our scientist Nelle's computer.  After this
 illustration, you'll be learning commands to explore your own filesystem,
 which will be constructed in a similar way, but not be exactly identical.  
@@ -370,7 +370,7 @@ Many bash commands, and programs that people have written that can be
 run from within bash, support a `--help` flag to display more
 information on how to use the commands or programs.
 
-> ## Unsupported comand-line options
+> ## Unsupported command-line options
 > If you try to use an option that is not supported, `ls` and other programs
 > will print an error message similar to this:
 >
@@ -531,7 +531,7 @@ We now know how to go down the directory tree, but
 how do we go up?  We might try the following:
 
 ~~~
-cd data-shell
+$ cd data-shell
 ~~~
 {: .bash}
 
