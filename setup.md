@@ -20,9 +20,9 @@ In the lesson, you will find out how to access the data in this folder.
 
 To be able to participate in this lesson we will need you to install some software to give you access to a command shell. MobaXTerm is a powerful terminal program for Windows. It allows you to use Linux commands on a Windows PC. The free Home Edition of MobaXterm can be found [here](http://mobaxterm.mobatek.net/download.html).
 
-Once you have installed MobaXTerm, run the program. Then click the "Start local terminal" button in the middle of the MobaXterm window.
+Once you have installed MobaXTerm, run the program. Then click the *Start local terminal* button in the middle of the MobaXterm window.
 
-MobaXterm users will also need to install the nano program.  To do this from your local terminal, type "mobapt install nano" followed by the Enter key.
+MobaXterm users will also need to install the nano program.  To do this from your MobaXterm local terminal, type `mobapt install nano` followed by the Enter key.
 
 Once you have gotten to this point you are ready to participate in the lesson.
 
