@@ -44,7 +44,7 @@ let's open a shell window:
 > ## Preparation Magic
 >
 > If you type the command:
-> `PS1='$ '`
+> `PS1='\n$ '`
 > into your shell, followed by pressing the 'enter' key,
 > your window should look like our example in this lesson.  
 > This isn't necessary to follow along (in fact, your prompt may have
