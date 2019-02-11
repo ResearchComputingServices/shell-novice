@@ -15,6 +15,7 @@ We ask that you bring a laptop to this workshop.  Depending on the operating sys
    - We recommend the "Installer edition" (green button)
    - Unzip the MobaXterm Installer ZIP before running the MSI installer file
 4. In MobaXterm: Click *Start Local terminal* button in the centre of the MobaXterm window
+5. In the MobaXterm window, type `mobapt install nano` followed by the Enter key.
 
 ## Mac Users
 
