@@ -47,25 +47,14 @@ In the lesson, you will find out how to access the data in this folder.
 >
 > ### Windows
 > Computers with Windows operating systems do not automatically have a Unix Shell program installed.
-> In this lesson, we encourage you to use an emulator included in Git for Windows, 
-> which gives you access to both Bash shell commands and Git. 
-> If you are attending a Software Carpentry workshop session, it is likely you have already received instructions on how to install Git for Windows.
+> There are different options to install a Unix Shell emulator.  We suggest using MobaXterm for this workshops.
 >
-> Once installed, you can open a terminal by running the program Git Bash from the Windows start menu.
+> To use MobaXterm Home Edition:
 >
-> Other solutions are available for running Bash commands on Windows. 
-> There is now a Bash shell command-line tool available for Windows 10. 
-> Additionally, you can run Bash commands on a remote computer or server that already has a Unix Shell, from your Windows machine. 
-> This can usually be done through a Secure Shell (SSH) client. 
-> One such client available for free for Windows computers is PuTTY. 
-> See the reference below for information on installing and using PuTTY, 
-> using the Windows 10 command-line tool, or installing and using a Unix/Linux emulator.
+> 1. Install [MobaXterm Home Edition](http://mobaxterm.mobatek.net/download.html)
+>    - We recommend the "Installer edition" (green button)
+>    - Unzip the MobaXterm Installer ZIP before running the MSI installer file
+> 2. In MobaXterm: Click *Start Local terminal* button in the centre of the MobaXterm window
+> 3. In the MobaXterm window, type `mobapt install nano` followed by the Enter key.
 >
-> #### Reference
-> * [Git for Windows](https://git-for-windows.github.io/) - *Recommended*
->
-> ### For advanced users, you may choose one of the following alternatives: 
-> * [Install the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-> * [Using a Unix/Linux emulator (Cygwin) or Secure Shell (SSH) client (Putty)](http://faculty.smu.edu/reynolds/unixtut/windows.html)
 {: .callout}
->   *Please note that commands in the Windows Subsystem for Linux (WSL) or Cygwin may differ slightly from those shown in the lesson or presented in the workshop. 
